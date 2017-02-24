@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A dumb coder, who keeps on learning..
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My ideal vision of career is one that involves research in academia, scope for innovation and a window to make real contribution to the computing world.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Don't hesitate clicking on any of the footer-option to follow, Thanks.
