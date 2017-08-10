@@ -3,7 +3,7 @@ layout: post
 title: Dumbo vs Smarty... 
 ---
 
-(Dumbness are still having edge and preferable)
+(Dumbness are still preferable)
 
 I just switched my mobility from very basic Motorola w230 to smart Galaxy ace. No need to count number of features available on smart phone, but simplicity and couple of attributes of my not-so-smart Motorola  are missing from the smart world, for which  I would still prefer dumbphones over smarties here.
 
