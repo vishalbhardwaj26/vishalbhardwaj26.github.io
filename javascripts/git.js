@@ -13,8 +13,8 @@ jQuery.fn.loadRepositories = function(username) {
     var list = $('<ul/>');
     target.empty().append(list);
     $(repos).each(function() {
-      if (this.name != (username.toLowerCase()+'.github.io')) {
-       list.append('<li><a href="'+ (this.homepage?this.homepage:this.html_url) +'">' + this.name + '</a></li>');
+      if (this.name != (username.toLowerCase()+'.github.io') && this.name != ('chatterbot')) {
+       list.append('<li><a href="'+ (this.homepage?this.homepage:this.html_url) +'" target="_blank">' + this.name + '</a></li>');
         if (this.description != null) {
                 list.append('<dd>' + this.description +'</dd>');
         }
