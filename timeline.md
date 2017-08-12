@@ -4,7 +4,7 @@ title: Time-line
 permalink: /timeline/
 ---
 
-Some information about professional timeline!
+Placeholder: yet to be filled by innovative stuff. Please wait!!
 
 
 
