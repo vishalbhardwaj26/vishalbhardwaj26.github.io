@@ -283,6 +283,21 @@ footer {
   text-align: center;
 }
 
+//Vishal styles for table
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  
+}
+
+th{
+  border:2px solid #000000;
+}
+
+td{
+  border:1px solid #000000;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
