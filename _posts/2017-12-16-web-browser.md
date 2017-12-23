@@ -73,3 +73,5 @@ The goal of a JavaScript engine’s code parsing and execution process is to gen
  - Open source JavaScript engine developed by The Chromium Project for the Google Chrome web browser
  - Used in many other projects, such as Couchbase, MongoDB, Electron and Node.js.
  - Node.js is an asynchronous, event-driven framework that allows you to use JavaScript on the server-side. Since they are JavaScript-driven tools, they are powered by JavaScript engines.
+
+ [In Continuation: Web Browser Basics - Example and Updates](https://vishalbhardwaj26.github.io/web-browser-part2/)
